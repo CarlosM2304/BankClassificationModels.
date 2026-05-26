@@ -139,7 +139,7 @@ The lab demonstrates that a proper EDA and data preparation pipeline significant
 ---
 
 ## References
-
+- https://archive.ics.uci.edu/dataset/222/bank+marketing
 - One-Hot Encoding and Two-Hot Encoding: An Introduction. (2024). ResearchGate.
 - [PySpark ML Classification docs](https://spark.apache.org/docs/latest/ml-classification-regression.html)
 - [VectorAssembler API](https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.ml.feature.VectorAssembler.html)
